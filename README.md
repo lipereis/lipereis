@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Motion Designer graduated from PUC-Rio, now transitioning into Backend Development. I bring a creative background in design to problem-solving in code, currently exploring Python, Node.js, and clean software practices.
 
 * 🌍  I'm based in Rio de Janeiro
-* ✉️  You can contact me at [lipereis99@hotmail.com](mailto:lipereis99@hotmail.com)
+* ✉️  You can contact me at [felipedrg02@gmail.com](mailto:felipedrg02@gmail.com)
 * 🚀  I'm currently working on [Bullcord](http://bullcord.squareweb.app/)
 
 ### Skills
