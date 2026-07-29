@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Felipe Gomes
 =====================================================================================================================================
 
-Motion Designer graduated from PUC-Rio, now transitioning into Backend Development. I bring a creative background in design to problem-solving in code, currently exploring Python, Node.js, and clean software practices.
+Motion Designer graduated from PUC-Rio, now transitioning into Backend Development and AI Engineering. I bring a creative background in design to problem-solving in code, currently exploring Python, Node.js, and clean software practices.
 
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [felipedrg02@gmail.com](mailto:felipedrg02@gmail.com)
-* 🚀  I'm currently working on [TrainFlow](https://trainflow-chi.vercel.app/)
+* 🚀  I'm currently working on [TrainFlow](https://trainflow-chi.vercel.app/) & [SpoilerAlert]
 
 ### Skills
 
