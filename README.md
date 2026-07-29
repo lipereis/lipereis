@@ -5,7 +5,7 @@ Motion Designer graduated from PUC-Rio, now transitioning into Backend Developme
 
 * 🌍  I'm based in Rio de Janeiro
 * ✉️  You can contact me at [felipedrg02@gmail.com](mailto:felipedrg02@gmail.com)
-* 🚀  I'm currently working on [TrainFlow](https://trainflow-chi.vercel.app/) & [SpoilerAlert]
+* 🚀  I'm currently working on [TrainFlow](https://trainflow-chi.vercel.app/) & [SpoilerAlert](https://spoileralertdata.streamlit.app/)
 
 ### Skills
 
